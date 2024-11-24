@@ -7,7 +7,7 @@ This code is an educational keylogger that captures keyboard input and sends it 
 
 - **Listener**: Runs continuously until manually stopped, tracking all key presses in real time.
 
-You can red the keylog at https://api.jsonbin.io/v3/b/67423183e41b4d34e4595da7/latest
+You can read the keylog at https://api.jsonbin.io/v3/b/67423183e41b4d34e4595da7/latest
 
 This tool is for educational purposes only, the author do not endorse or promote any illegal activity and are not responsible for any damage done henceforth.
 ## Installation
